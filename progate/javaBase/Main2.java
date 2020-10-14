@@ -1,4 +1,4 @@
-package javaProgate;
+package javaBase;
 
 class Main2 {
   public static void main(String[] args) {
