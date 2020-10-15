@@ -8,10 +8,13 @@ class Main10 {
     number = number + 7;
 
     // 変数numberを出力してください
+    System.out.println(number);
 
     // 変数numberの値に1を足して、変数numberを上書きしてください
+    number += 1;
 
     // 変数numberを出力してください
+    System.out.println(number);
 
   }
 }
