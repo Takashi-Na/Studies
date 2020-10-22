@@ -8,6 +8,6 @@ class Main2 {
 
   // printDataメソッドを定義してください
   public static void printData() {
-    System.out.println("私の名前はKate Jonesです");
+    System.out.println("私の名前はKate Jonesです。");
   }
 }
