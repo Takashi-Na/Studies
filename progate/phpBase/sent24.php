@@ -30,7 +30,9 @@
 
       <div class="form-item">■ お問い合わせの種類</div>
       <!-- この下でcategoryを受け取りechoしましょう -->
-      
+      <?php
+        echo $_POST['category'];
+      ?>
       
       <div class="form-item">■ 内容</div>
       <?php echo $_POST['body']; ?>
