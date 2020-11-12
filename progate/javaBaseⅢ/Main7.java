@@ -13,7 +13,7 @@ class Main7 {
     System.out.println("体重は" + weight + "kgです");
 
     // 変数bmiに、bmiメソッドを用いてBMIを代入してください
-    double bmi = bmi(height / weight);
+    double bmi = bmi(height, weight);
 
     // 変数bmiを用いて、「BMIは◯◯です」と出力してください
     System.out.println("BMIは" + bmi + "です");
