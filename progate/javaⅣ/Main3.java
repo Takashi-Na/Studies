@@ -1,10 +1,10 @@
 package javaⅣ;
 
-class Main3 {
+class Main {
   public static void main(String[] args) {
     // Personクラスのインスタンスを生成し、変数person1に代入してください
-    Person3 person1 = new Person3();
+    Person person1 = new Person();
     // Personクラスのインスタンスを生成し、変数person2に代入してください
-    Person3 person2 = new Person3();
+    Person person2 = new Person();
   }
 }

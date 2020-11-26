@@ -1,12 +1,12 @@
 package javaⅣ;
 
-class Main4 {
+class Main {
   public static void main(String[] args) {
-    Person4 person1 = new Person4();
+    Person person1 = new Person();
     // person1に対して、helloメソッドを呼び出してください
     person1.hello();
 
-    Person4 person2 = new Person4();
+    Person person2 = new Person();
     // person2に対して、helloメソッドを呼び出してください
     person2.hello();
 

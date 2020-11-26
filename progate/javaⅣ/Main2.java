@@ -1,8 +1,8 @@
 package javaⅣ;
 
-class Main2 {
+class Main {
   public static void main(String[] args) {
-    Person2 person = new Person2();
+    Person person = new Person();
     person.hello();
   }
 }

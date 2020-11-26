@@ -1,6 +1,6 @@
 package javaⅣ;
 
-class Main6 {
+class Main {
   public static void main(String[] args) {
     Person person1 = new Person();
     person1.name = "Kate Jones";

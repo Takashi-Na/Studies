@@ -1,8 +1,8 @@
 package javaⅣ;
 
-class Main5 {
+class Main {
   public static void main(String[] args) {
-    Person5 person1 = new Person5();
+    Person person1 = new Person();
     person1.hello();
 
     // person1のインスタンスフィールドnameに「Kate Jones」をセットしてください
@@ -10,7 +10,7 @@ class Main5 {
     // person1のインスタンスフィールドnameの値を出力してください
     System.out.println(person1.name);
 
-    Person5 person2 = new Person5();
+    Person person2 = new Person();
     person2.hello();
 
     // person2のインスタンスフィールドnameに「John Christopher Smith」をセットしてください
