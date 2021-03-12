@@ -20,6 +20,7 @@ int main(void)
   datasize = 10;
   data = (Pinfo *)malloc(sizeof(Pinfo) * datasize);
 
+  printf("名前、年齢性別を入力してください（入力が終わった場合は名前欄にendと入力してください）")
   count = 0;
   while (1)
   {
